@@ -1,0 +1,20 @@
+{
+    "descriptifs":[
+        {
+            "id":1,
+            "competence":"java",
+            "description":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible"
+           
+
+        },
+        {
+            "id":2,
+            "competence":"Spring",
+            "description":"The Spring Framework is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions forbuilding web applications on top of the Java EE platform"
+        },
+        {
+            "id":3,
+            "competence":"debutant"
+        }
+    ]
+}
